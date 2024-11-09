@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264913507484",
+    "project_id": "last-chance-ea21a",
+    "storage_bucket": "last-chance-ea21a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264913507484:android:8f0a091d6b37ab2def0959",
+        "android_client_info": {
+          "package_name": "com.example.symmetry_last_chance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwqsQa45qqJYmXvvyd0cjR5d55Set0WoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
